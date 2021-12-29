@@ -1,0 +1,10 @@
+practise\AppiumFramework\WebDriverCommonLib.class
+pageObject\CheckoutPage.class
+resources\Listeners.class
+practise\AppiumFramework\BaseCapability.class
+resources\ExtentReporterNG.class
+pageObject\FormPage.class
+practise\AppiumFramework\Initialization.class
+pageObject\ProductListPage.class
+practise\AppiumFramework\TestData.class
+practise\AppiumFramework\Utilities.class

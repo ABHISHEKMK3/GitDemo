@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Tapped on Argentina country Dowpdown]]>
+    </line>
+    <line>
+      <![CDATA[Entered Name Testing products]]>
+    </line>
+    <line>
+      <![CDATA[Selected female Radio button]]>
+    </line>
+    <line>
+      <![CDATA[Entered Name Testing products]]>
+    </line>
+    <line>
+      <![CDATA[Scrilled Till :Jordan 6 Rings]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on zero index of]]>
+    </line>
+    <line>
+      <![CDATA[Scrilled Till :PG 3]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on zero index of]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on CartButtonf]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on Argentina country Dowpdown]]>
+    </line>
+    <line>
+      <![CDATA[Entered Name Testing products]]>
+    </line>
+    <line>
+      <![CDATA[Selected female Radio button]]>
+    </line>
+    <line>
+      <![CDATA[Entered Name Testing products]]>
+    </line>
+    <line>
+      <![CDATA[Scrilled Till :Jordan 6 Rings]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on zero index of]]>
+    </line>
+    <line>
+      <![CDATA[Scrilled Till :PG 3]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on zero index of]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on CartButtonf]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="491486" started-at="2021-12-12T12:41:22Z" finished-at="2021-12-12T12:49:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="491486" started-at="2021-12-12T12:41:22Z" finished-at="2021-12-12T12:49:34Z">
+      <class name="practise.AppiumFramework.Ecom_test1">
+        <test-method status="PASS" signature="totalValue()[pri:0, instance:practise.AppiumFramework.Ecom_test1@731a74c]" name="totalValue" duration-ms="129732" started-at="2021-12-12T18:17:24Z" finished-at="2021-12-12T18:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValue -->
+      </class> <!-- practise.AppiumFramework.Ecom_test1 -->
+      <class name="practise.AppiumFramework.AmountValidation">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.AmountValidation@4b4523f8]" name="killAllNodes" is-config="true" duration-ms="3150" started-at="2021-12-12T18:11:22Z" finished-at="2021-12-12T18:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="totalProductValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.AmountValidation@4b4523f8]" name="totalProductValidation" duration-ms="186631" started-at="2021-12-12T18:11:25Z" data-provider="InputData" finished-at="2021-12-12T18:14:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Tapped on Argentina country Dowpdown]]>
+            </line>
+            <line>
+              <![CDATA[Entered Name Testing products]]>
+            </line>
+            <line>
+              <![CDATA[Selected female Radio button]]>
+            </line>
+            <line>
+              <![CDATA[Entered Name Testing products]]>
+            </line>
+            <line>
+              <![CDATA[Scrilled Till :Jordan 6 Rings]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on zero index of]]>
+            </line>
+            <line>
+              <![CDATA[Scrilled Till :PG 3]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on zero index of]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on CartButtonf]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- totalProductValidation -->
+        <test-method status="PASS" signature="totalProductValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.AmountValidation@4b4523f8]" name="totalProductValidation" duration-ms="171864" started-at="2021-12-12T18:14:32Z" data-provider="InputData" finished-at="2021-12-12T18:17:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Italy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Tapped on Argentina country Dowpdown]]>
+            </line>
+            <line>
+              <![CDATA[Entered Name Testing products]]>
+            </line>
+            <line>
+              <![CDATA[Selected female Radio button]]>
+            </line>
+            <line>
+              <![CDATA[Entered Name Testing products]]>
+            </line>
+            <line>
+              <![CDATA[Scrilled Till :Jordan 6 Rings]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on zero index of]]>
+            </line>
+            <line>
+              <![CDATA[Scrilled Till :PG 3]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on zero index of]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on CartButtonf]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- totalProductValidation -->
+      </class> <!-- practise.AppiumFramework.AmountValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

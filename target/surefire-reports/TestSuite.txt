@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 543.811 s <<< FAILURE! - in TestSuite
+practise.AppiumFramework.AmountValidation.totalProductValidation[Italy](2)  Time elapsed: 204.266 s  <<< FAILURE!
+java.lang.AssertionError: expected [275.0] but found [165.0]
+	at practise.AppiumFramework.AmountValidation.totalProductValidation(AmountValidation.java:46)
+
