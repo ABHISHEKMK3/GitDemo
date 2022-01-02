@@ -91,9 +91,12 @@ public class Ecom_test1 extends BaseCapability
         	total = total.substring(1);
         	double totalValue = Double.parseDouble(total);
         	
-   System.out.println(totalValue);
+  
    Assert.assertEquals(sum, totalValue);
-        		
+   
+   System.out.println(sum);
+   System.out.println(totalValue);
+   System.out.println(total);    		
         
    driver.findElement(By.id("com.androidsample.generalstore:id/btnProceed")).click();
    service.stop();
