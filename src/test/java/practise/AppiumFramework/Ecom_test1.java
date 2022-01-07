@@ -96,7 +96,9 @@ public class Ecom_test1 extends BaseCapability
    
    System.out.println(sum);
    System.out.println(totalValue);
-   System.out.println(total);    		
+   System.out.println(total);  
+   
+   System.out.println("New change in git");
         
    driver.findElement(By.id("com.androidsample.generalstore:id/btnProceed")).click();
    service.stop();
