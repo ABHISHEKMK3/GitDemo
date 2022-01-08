@@ -100,6 +100,9 @@ public class Ecom_test1 extends BaseCapability
    
    System.out.println("New change in git");
    System.out.println("New change in git one");
+   
+   System.out.println("New change in new branch devlop");
+   
    driver.findElement(By.id("com.androidsample.generalstore:id/btnProceed")).click();
    service.stop();
    
