@@ -11,5 +11,10 @@ public class GitAppiumChanges {
 	{
 		System.out.println("git Appium two uploded to git by American");
 	}
+	
+	public void gitAppiumBhogi()
+	{
+		System.out.println("git Appium bhogi American 14:14");
+	}
 
 }
